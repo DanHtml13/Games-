@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: #477391;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#gameCanvas {
+    border: 1px solid #5517ff;
+}
